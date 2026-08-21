@@ -1,4 +1,4 @@
-# music-genre-classification
+# audio-genre-classification
 Machine learning project for multiclass music genre classification using preprocessed audio features.
 
 ## Project Structure
@@ -6,7 +6,7 @@ Machine learning project for multiclass music genre classification using preproc
 
 
 ```text
-music-genre-classification/
+audio-genre-classification/
 ├── data/
 │   ├── raw/
 │   └── processed/
